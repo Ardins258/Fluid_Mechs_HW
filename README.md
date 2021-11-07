@@ -5,8 +5,8 @@ Answers to some of Frank M. White's Fluid Mechanics problems in Python.
 > **Preferred IDE**: Spyder 
 
 > **Every Python library that I used for this repo:
-You can install these libraries using pip install command.
-{: .alert .alert-info}
+| :point_up:    | Install these libraries using pip install command |
+|---------------|:------------------------|
 ```Python
 import numpy as np
 import matplotlib.pyplot as plt
