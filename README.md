@@ -4,7 +4,7 @@ Answers to some of Frank M. White's Fluid Mechanics problems in Python.
 
 > **Preferred IDE**: Spyder 
 
-> **Every Python library that I used for this repo:
+> **Every Python library that I used for this repo:**
 
 | :point_down:    | Install these libraries using pip install command |
 |---------------|:--------------------------------------------------|
