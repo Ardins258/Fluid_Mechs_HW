@@ -16,5 +16,5 @@ import sympy as sm
 from sympy import *
 import scipy.integrate as sp
 ```
-```Arman Dindar Safa
-November 2021```
+```Arman Dindar Safa```
+```November 2021```
