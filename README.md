@@ -6,7 +6,7 @@ Answers to some of Frank M. White's Fluid Mechanics problems in Python.
 
 > **Every Python library that I used for this repo:
 
-| :point_up:    | Install these libraries using pip install command |
+| :point_down:    | Install these libraries using pip install command |
 |---------------|:--------------------------------------------------|
 
 ```Python
